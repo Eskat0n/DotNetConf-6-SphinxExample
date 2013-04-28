@@ -10,7 +10,7 @@ DotNetConf-6-SphinxExample
 
 ### Подключение к MS SQL
 
-Хост: 55658f58-727a-4947-8a88-a14900bcbe98.sqlserver.sequelizer.com
-Название БД: db55658f58727a49478a88a14900bcbe98
-Логин: zunilrizosumcanl
-Пароль: LDxiogAJTPJpxBNUUHzpXd7YLFJnehu3SgMLKfoXu5JUfdEfcbSEHqLHFGDPDnDL
+* Хост: 55658f58-727a-4947-8a88-a14900bcbe98.sqlserver.sequelizer.com
+* Название БД: db55658f58727a49478a88a14900bcbe98
+* Логин: zunilrizosumcanl
+* Пароль: LDxiogAJTPJpxBNUUHzpXd7YLFJnehu3SgMLKfoXu5JUfdEfcbSEHqLHFGDPDnDL
